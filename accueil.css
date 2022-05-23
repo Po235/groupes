@@ -1,0 +1,13 @@
+/* general */
+h1 
+{
+    font-weight: bolder;
+    font-size: 120px;
+    color: whitesmoke;
+    margin: 300px auto;
+    text-align: center;
+}
+.orge 
+{
+    color: #ff7a00;
+}

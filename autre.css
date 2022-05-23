@@ -1,0 +1,81 @@
+/* General */
+.h5
+{
+    font-size: 80px;
+    color: orange;
+}
+#h6
+{
+    color: whitesmoke;
+}
+iframe 
+{
+   margin-left: 20px;
+
+}
+  
+/* Games */
+.orge 
+{
+    color: #ff7a00;
+}
+#ai
+{
+    background-color: #444;
+    padding: 60px 0;
+}
+#ai article 
+{
+   width: 460px;
+   height: 270px;
+   float: left;
+   border-radius: 10px;
+   display: inline;
+}
+#ai article:first-child
+{
+    margin: 20px 20px;
+    
+}
+#ao
+{
+    background-color: #444;
+    padding: 60px 0;
+}
+#ao article 
+{
+   width: 460px;
+   height: 270px;
+   float: left;
+   border-radius: 10px;
+   display: inline;
+}
+#ao article:first-child
+{
+    margin: 20px 20px;
+    
+}
+#ovr
+{
+   border-bottom: 1px solid whitesmoke;
+   padding-bottom: 20px;
+   text-align: center; 
+   width: 600px;
+   margin: 20px auto;
+   color: whitesmoke;
+}
+#ovr:hover
+{
+   color: #ff7a00;
+}
+
+
+
+
+/* Movies */
+/* Music */
+/* Mangas */
+
+
+
+
